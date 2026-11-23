@@ -143,7 +143,7 @@ Les objectifs (par exemple ≥ 90 % de citations valides) sont des **objectifs**
 
 ## Avancement
 
-- [ ] **S1** Cadrage, corpus, architecture et analyse des risques
+- [x] **S1** Cadrage, corpus, architecture et analyse des risques
 - [ ] **S2** Ingestion, recherche textuelle et visuelle, gestion des accès (V1)
 - [ ] **S3** VLM, citations et sorties structurées (V2)
 - [ ] **S4** LangGraph, serveur MCP et validation humaine (V3)
